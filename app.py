@@ -1,4 +1,4 @@
-class Stu(onject):
+class Stu(object):
   stu_count = 0
   def __new__(self):
     print('Stu.__new__')
